@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* *(Ongoing)* Ph.D. in Computer Science, University of Rennes, France, 2028 (expected)
+* Engineering Degree in Computer Science, ESIR, University of Rennes, France, 2023 
+* Visiting Student in Computer Science, Newcastle University, UK, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2023 - May 2024: Research Assistant 
+  * RC3, KAUST, Saudi Arabia
+  * Network security in online games
+  * Supervisor: Prof. Marc Dacier
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February 2023 - August 2024: Research Intern
+  * IRISA, Rennes, France
+  * System, Cloud, serverless computing
+  * Supervisor: Prof. David Bromberg, Prof. Djob Mvondo
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* June 2022 - Septembre 2023: Research Intern
+  * IRISA, Rennes, France
+  * System, Datacenter clock synchronization
+  * Supervisor: Prof. David Bromberg, Prof. Djob Mvondo
+
+* June 2021 - August 2021: Intern
+  * Aviwest *(Now Haivision)*, Saint-Gregoire, France
+  * Playback Video Card study, Lipsync improvement
+
+* Mai 2019 - June 2019: Intern
+  * ACTIA Telecom, Dinard, France
+  * Products graphical chart
 
 Publications
 ======
@@ -55,9 +54,6 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
