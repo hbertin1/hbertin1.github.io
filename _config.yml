@@ -26,7 +26,7 @@ author:
   name             : "Hugo Bertin"
   pronouns         : "he/him"  
   bio              : "Ph.D. Student at IRISA"
-  location         : "Earth"
+  location         : "Rennes, Bretagne"
   employer         : "University of Rennes"
   uri              : # URL
   email            : "hugo.bertin@irisa.fr" 
@@ -40,12 +40,13 @@ author:
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
+  dblp             : "https://dblp.org/pid/205/4631"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "hbertin1"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
