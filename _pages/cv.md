@@ -25,12 +25,12 @@ Work experience
 * February 2023 - August 2024: Research Intern
   * IRISA, Rennes, France
   * System, Cloud, serverless computing
-  * Supervisor: Prof. David Bromberg, Prof. Djob Mvondo
+  * Supervisor: Prof. David Bromberg, [Prof. Djob Mvondo](https://djobiii2078.github.io/)
 
 * June 2022 - Septembre 2023: Research Intern
   * IRISA, Rennes, France
   * System, Datacenter clock synchronization
-  * Supervisor: Prof. David Bromberg, Prof. Djob Mvondo
+  * Supervisor: Prof. David Bromberg, [Prof. Djob Mvondo](https://djobiii2078.github.io/)
 
 * June 2021 - August 2021: Intern
   * Aviwest *(Now Haivision)*, Saint-Gregoire, France
